@@ -1,1 +1,1 @@
-# Cloud Computing Assignment Submission
+# Cloud Computing Lab Assignment Submission
